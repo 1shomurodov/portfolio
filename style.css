@@ -122,26 +122,5 @@ footer{
   opacity:1;
   transform:translateY(0);
 }
-/* CONTACT */
-.socials {
-  margin-top: 20px;
-  text-align: center;
-}
 
-.socials a {
-  font-size: 30px;
-  margin: 0 10px;
-  color: #0c044e;
-  transition: 0.3s;
-}
-
-.socials a:hover {
-  color: #00c896;
-}
-
-/* FADE ANIMATION */
-.card {
-  opacity: 0;
-  transform: translateY(40px);
-}
 
